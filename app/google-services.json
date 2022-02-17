@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "456751517783",
+    "firebase_url": "https://christianapp-ade1f.firebaseio.com",
+    "project_id": "christianapp-ade1f",
+    "storage_bucket": "christianapp-ade1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456751517783:android:f149319755531b3ae2d312",
+        "android_client_info": {
+          "package_name": "com.example.rosesphora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456751517783-pt1fil4li4acaoi9gkcu3k530ugfco2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rosesphora",
+            "certificate_hash": "536365d3af7a60cb3231f578d991e04f809bee7a"
+          }
+        },
+        {
+          "client_id": "456751517783-mscuobtof1jmh6m08ckj995vhdh3p6m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLo4inyiQm2VYDnOjZivdwH1QmFNlxu4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456751517783-mscuobtof1jmh6m08ckj995vhdh3p6m2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456751517783-c7o988kjeqb9gv7o9ia0ck9q4o8bo40r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roseSaphira"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

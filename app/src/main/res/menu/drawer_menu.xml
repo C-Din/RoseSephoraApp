@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/drawer_profil"
+        android:title="Mon compte"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item
+        android:id="@+id/drawer_blog"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="Blog"/>
+    <item
+        android:id="@+id/drawer_share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Pargatger" />
+    <item
+        android:id="@+id/drawer_logout_btn"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        android:title="Se déconnecter" />
+
+</menu>
